@@ -9,13 +9,16 @@
 
 ---
 
-### 🚀 About Me
+### 🙋 About Me
 
-* 🎓 Software Engineering Student
-* 💻 Passionate about building real-world projects
-* 🧠 Currently learning: **Web · Algorithms · Systems**
-* ⚡ I enjoy understanding systems deeply, not just using them
-* 🎯 Goal: Become a solid Software Engineer
+I'm a **3rd-year Computer Engineering student** from Vietnam 🇻🇳, passionate about building real-world software that solves real problems.
+
+- 🎓 Studying **Computer Engineering** — bridging hardware, software, and systems
+- 💻 Focusing on **Full Stack Web Development** (React · Spring Boot · MySQL)
+- 🌐 Experienced with **RESTful APIs**, **JWT Authentication**, and deploying web apps to production
+- 🔌 Interested in **IoT systems** — connecting the physical world with software
+- 🌱 Currently deepening knowledge in: **System Design · Networking · Cloud Deployment**
+- ⚡ I don't just use technology — I dig into how it actually works
 
 ---
 
@@ -43,7 +46,7 @@
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dinhthuy2k5&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Dinhthuy2k5&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
 </p>
 
 ---
