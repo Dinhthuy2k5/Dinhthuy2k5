@@ -11,6 +11,8 @@
 
 ### 🙋 About Me
 
+<img align="right" src="https://raw.githubusercontent.com/Dinhthuy2k5/Dinhthuy2k5/main/Kimetsu.gif" width="280" style="margin-left: 20px; margin-bottom: 10px;" />
+
 I'm a **3rd-year Computer Engineering student** from Vietnam 🇻🇳, passionate about building real-world software that solves real problems.
 
 - 🎓 Studying **Computer Engineering** — bridging hardware, software, and systems
@@ -19,6 +21,8 @@ I'm a **3rd-year Computer Engineering student** from Vietnam 🇻🇳, passionat
 - 🔌 Interested in **IoT systems** — connecting the physical world with software
 - 🌱 Currently deepening knowledge in: **System Design · Networking · Cloud Deployment**
 - ⚡ I don't just use technology — I dig into how it actually works
+
+<br clear="right"/>
 
 ---
 
@@ -43,13 +47,7 @@ I'm a **3rd-year Computer Engineering student** from Vietnam 🇻🇳, passionat
 
 ---
 
-### 🏆 Achievements
 
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Dinhthuy2k5&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-</p>
-
----
 
 ### 🔥 Featured Projects
 
@@ -74,7 +72,4 @@ I'm a **3rd-year Computer Engineering student** from Vietnam 🇻🇳, passionat
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dinhthuy2k5/Dinhthuy2k5/main/Kimetsu.gif" width="320"/>
-</p>
 
