@@ -63,11 +63,19 @@ I'm a **3rd-year Computer Engineering student** from Vietnam 🇻🇳, passionat
 
 <p align="center">
   <a href="mailto:ngdinhthuy2k@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-00f5d4?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-e94560?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/Dinhthuy2k5">
-    <img src="https://img.shields.io/badge/GitHub-Profile-2c5364?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-0f3460?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/ngdthuy.23/">
+    <img src="https://img.shields.io/badge/Instagram-ngdthuy.23-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/nguyen.inh.thuy.973214">
+    <img src="https://img.shields.io/badge/Facebook-Nguyễn Đình Thuy-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
