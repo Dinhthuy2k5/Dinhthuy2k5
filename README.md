@@ -28,8 +28,24 @@ I'm a **3rd-year Computer Engineering student** from Vietnam 🇻🇳, passionat
 
 ### 🧰 Tech Stack
 
+**Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,react,nodejs,git,github,linux,vscode&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,js,ts&theme=dark" />
+</p>
+
+**Frontend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,scss,react,expo&theme=dark" />
+</p>
+
+**Backend & Database**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgres&theme=dark" />
+</p>
+
+**Tools & DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,idea&theme=dark" />
 </p>
 
 ---
@@ -47,17 +63,6 @@ I'm a **3rd-year Computer Engineering student** from Vietnam 🇻🇳, passionat
 
 ---
 
-
-
-### 🔥 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Dinhthuy2k5">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dinhthuy2k5&repo=Dinhthuy2k5&theme=tokyonight" />
-  </a>
-</p>
-
----
 
 ### 📫 Connect with Me
 
