@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+I'm+Thuy;Computer+Engineering+Student;I+love+building+things;Always+learning+new+tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+I'm+Thuy;Computer+Engineering+Student;Software+Engineer;Building+Real-World+Software" />
 </p>
 
 <p align="center">
@@ -11,16 +12,17 @@
 
 ### 🙋 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/Dinhthuy2k5/Dinhthuy2k5/main/Kimetsu.gif" width="280" style="margin-left: 20px; margin-bottom: 10px;" />
+<img align="right" src="https://raw.githubusercontent.com/Dinhthuy2k5/Dinhthuy2k5/main/Kimetsu.gif" width="280" />
 
-I'm a **3rd-year Computer Engineering student** from Vietnam 🇻🇳, passionate about building real-world software that solves real problems.
+I'm a **Computer Engineering student at Hanoi University of Science and Technology**, interested in building reliable and practical software systems.
 
-- 🎓 Studying **Computer Engineering** — bridging hardware, software, and systems
-- 💻 Focusing on **Full Stack Web Development** (React · Spring Boot · MySQL)
-- 🌐 Experienced with **RESTful APIs**, **JWT Authentication**, and deploying web apps to production
-- 🔌 Interested in **IoT systems** — connecting the physical world with software
-- 🌱 Currently deepening knowledge in: **System Design · Networking · Cloud Deployment**
-- ⚡ I don't just use technology — I dig into how it actually works
+- 🎓 **Computer Engineering** student — CPA 3.63
+- 💻 Focused on **Software Engineering & Full Stack Development**
+- ☕ Currently focusing on **Java · Spring Boot · REST API · MySQL**
+- ⚛️ Frontend experience with **React.js**
+- 🐳 Familiar with **Docker, Git/GitHub, Linux & deployment**
+- 🧵 Interested in **concurrency, networking, system design & cloud**
+- 🌱 Always learning and building real-world projects
 
 <br clear="right"/>
 
@@ -30,17 +32,17 @@ I'm a **3rd-year Computer Engineering student** from Vietnam 🇻🇳, passionat
 
 **Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,js,ts&theme=dark" />
-</p>
-
-**Frontend**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,react,expo&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,kotlin&theme=dark" />
 </p>
 
 **Backend & Database**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,postgres&theme=dark" />
+</p>
+
+**Frontend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,scss,react&theme=dark" />
 </p>
 
 **Tools & DevOps**
@@ -60,9 +62,3 @@ I'm a **3rd-year Computer Engineering student** from Vietnam 🇻🇳, passionat
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinhthuy2k5&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-
-
-
